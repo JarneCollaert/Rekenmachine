@@ -24,7 +24,7 @@ namespace Rekenmachine
             int deling = getal1 / getal2;
             Console.WriteLine("Dit is de deling van de 2 getallen " + deling);
             Console.ReadKey();
-           
+            
         }
         
 
